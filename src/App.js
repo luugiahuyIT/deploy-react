@@ -17,6 +17,12 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          href="https://test-chon-lp.dev.cp-apply.com"
+          target="_blank"
+        >
+          Go Dohbo
+        </a>
       </header>
     </div>
   );
